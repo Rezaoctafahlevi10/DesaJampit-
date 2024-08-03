@@ -1,0 +1,15 @@
+#about{
+    background-image:url(bromo.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: 0px -650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-attachment: fixed;
+  }
